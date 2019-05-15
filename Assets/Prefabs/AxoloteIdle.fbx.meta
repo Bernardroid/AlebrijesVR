@@ -1,0 +1,208 @@
+fileFormatVersion: 2
+guid: fab3213d4296ba74fb55b06852f8514b
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Axolote
+    100002: //RootNode
+    100004: back
+    100006: cabeza
+    100008: cabeza1
+    100010: cabeza2
+    100012: Control
+    100014: Controles
+    100016: front1
+    100018: Head
+    100020: Head 1
+    100022: Headend
+    100024: imagePlane1
+    100026: imagePlane2
+    100028: JNT
+    100030: left
+    100032: MSH
+    100034: Neck
+    100036: pCube2
+    100038: pCube3
+    100040: polySurface1
+    100042: polySurface2
+    100044: polySurface4
+    100046: Spine
+    100048: Tail
+    100050: Tail 1
+    100052: Tail1
+    100054: Tail2
+    100056: Tail2 1
+    100058: Tail3
+    100060: Tail3 1
+    100062: Tail4
+    100064: Tail4 1
+    100066: Tail5
+    100068: transform1
+    100070: transform2
+    100072: transform3
+    100074: transform4
+    400000: Axolote
+    400002: //RootNode
+    400004: back
+    400006: cabeza
+    400008: cabeza1
+    400010: cabeza2
+    400012: Control
+    400014: Controles
+    400016: front1
+    400018: Head
+    400020: Head 1
+    400022: Headend
+    400024: imagePlane1
+    400026: imagePlane2
+    400028: JNT
+    400030: left
+    400032: MSH
+    400034: Neck
+    400036: pCube2
+    400038: pCube3
+    400040: polySurface1
+    400042: polySurface2
+    400044: polySurface4
+    400046: Spine
+    400048: Tail
+    400050: Tail 1
+    400052: Tail1
+    400054: Tail2
+    400056: Tail2 1
+    400058: Tail3
+    400060: Tail3 1
+    400062: Tail4
+    400064: Tail4 1
+    400066: Tail5
+    400068: transform1
+    400070: transform2
+    400072: transform3
+    400074: transform4
+    2000000: back
+    2000002: front1
+    2000004: left
+    2100000: lambert1
+    2300000: cabeza2
+    2300002: pCube2
+    2300004: pCube3
+    3300000: cabeza2
+    3300002: pCube2
+    3300004: pCube3
+    4300000: cabeza2
+    4300002: pCube2
+    4300004: pCube3
+    4300006: polySurface4
+    7400000: Idle
+    9500000: //RootNode
+    13700000: polySurface4
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Idle
+      takeName: Idle
+      firstFrame: 1
+      lastFrame: 159
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

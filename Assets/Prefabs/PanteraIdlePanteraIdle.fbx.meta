@@ -1,0 +1,375 @@
+fileFormatVersion: 2
+guid: b5100f2071445f54eb47c72cbfbe7602
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: back
+    100002: Bones
+    100004: Chest
+    100006: Closters
+    100008: cluster1Handle
+    100010: cluster2Handle
+    100012: cluster3Handle
+    100014: cluster4Handle
+    100016: cluster5Handle
+    100018: CTLR
+    100020: Ctlr_L_Foot
+    100022: Ctlr_L_Foot_Back
+    100024: Ctlr_L_Foot_Front
+    100026: Ctlr_L_Knee_Back
+    100028: Ctlr_L_Knee_Front
+    100030: Ctlr_Neck
+    100032: Ctlr_R_Foot_Front
+    100034: Ctlr_R_Knee_Back
+    100036: Ctlr_R_Knee_Front
+    100038: curve1
+    100040: curve3
+    100042: curve4
+    100044: Ear
+    100046: Ear1
+    100048: earEnd
+    100050: earEnd 1
+    100052: FatherControl
+    100054: Head
+    100056: HeadEnd
+    100058: ikHandle1
+    100060: Jaw
+    100062: Jawend
+    100064: L_Ankle_IK
+    100066: L_Ankle_IK_Front
+    100068: L_Back_Ankle_grp
+    100070: L_Back_Ankle_grp 1
+    100072: L_Back_Toe_ball
+    100074: L_Back_Toe_grp
+    100076: L_ball_IK
+    100078: L_ball_IK_Front
+    100080: L_Front_Ankle
+    100082: L_Front_Ankle_grp
+    100084: L_Front_Toe_ball
+    100086: L_Front_Toe_grp
+    100088: L_Joint_Ankle
+    100090: L_Joint_Ankle_Front
+    100092: L_Joint_BakcLeg
+    100094: L_Joint_Ball
+    100096: L_Joint_Ball_front
+    100098: L_Joint_BrontLeg
+    100100: L_Joint_Calf
+    100102: L_Joint_Calf_Front
+    100104: L_Joint_Toe
+    100106: L_Joint_Toe_front
+    100108: L_Toe_IK
+    100110: L_Toe_IK_Front
+    100112: lcators
+    100114: left
+    100116: locator1
+    100118: locator10
+    100120: locator11
+    100122: locator12
+    100124: locator13
+    100126: locator14
+    100128: locator15
+    100130: locator16
+    100132: locator17
+    100134: locator18
+    100136: locator19
+    100138: locator2
+    100140: locator20
+    100142: locator3
+    100144: locator4
+    100146: locator5
+    100148: locator6
+    100150: locator7
+    100152: locator8
+    100154: locator9
+    100156: MSH
+    100158: Neck
+    100160: Panter
+    100162: //RootNode
+    100164: Pelvis
+    100166: R_Ankle_IK
+    100168: R_Ankle_IK_Front
+    100170: R_Back_Ankle_grp
+    100172: R_Back_Ankle_grp1
+    100174: R_Back_Toe_ball
+    100176: R_Back_Toe_grp
+    100178: R_ball_IK
+    100180: R_ball_IK_Front
+    100182: R_Front_Ankle
+    100184: R_Front_Ankle_grp
+    100186: R_Front_Toe_ball
+    100188: R_Front_Toe_grp
+    100190: R_Joint_Ankle
+    100192: R_Joint_Ankle_Front
+    100194: R_Joint_BakcReg1
+    100196: R_Joint_Ball
+    100198: R_Joint_Ball_front
+    100200: R_Joint_BrontReg
+    100202: R_Joint_BrontReg1
+    100204: R_Joint_Calf
+    100206: R_Joint_Calf_Front
+    100208: R_Joint_Toe
+    100210: R_Joint_Toe_front
+    100212: R_Toe_IK
+    100214: R_Toe_IK_Front
+    100216: RIG
+    100218: Spine
+    100220: Spine 1
+    100222: Spine 2
+    100224: Spine2
+    100226: Spine3
+    100228: Spine4
+    100230: Spine5
+    100232: Spine6
+    100234: Spine7
+    100236: Spine8
+    100238: Tail
+    100240: Tail1
+    100242: Tail2
+    100244: Tail2 1
+    100246: Tail3
+    100248: Tail3 1
+    100250: Tail4
+    100252: Tail4 1
+    100254: Tail5
+    100256: Tail5 1
+    100258: Tail6
+    100260: Tail6 1
+    100262: Tail7
+    100264: Tail7 1
+    100266: Tail8
+    100268: ZCtlr_L_Foot_Back
+    100270: ZCtlr_L_Foot_Front
+    100272: ZCtlr_L_Knee_Back
+    100274: ZCtlr_L_Knee_Front
+    100276: ZCtlr_R_Foot
+    100278: ZCtlr_R_Foot_Front1
+    100280: ZCtlr_R_Knee_Back
+    100282: ZCtlr_R_Knee_Front
+    400000: back
+    400002: Bones
+    400004: Chest
+    400006: Closters
+    400008: cluster1Handle
+    400010: cluster2Handle
+    400012: cluster3Handle
+    400014: cluster4Handle
+    400016: cluster5Handle
+    400018: CTLR
+    400020: Ctlr_L_Foot
+    400022: Ctlr_L_Foot_Back
+    400024: Ctlr_L_Foot_Front
+    400026: Ctlr_L_Knee_Back
+    400028: Ctlr_L_Knee_Front
+    400030: Ctlr_Neck
+    400032: Ctlr_R_Foot_Front
+    400034: Ctlr_R_Knee_Back
+    400036: Ctlr_R_Knee_Front
+    400038: curve1
+    400040: curve3
+    400042: curve4
+    400044: Ear
+    400046: Ear1
+    400048: earEnd
+    400050: earEnd 1
+    400052: FatherControl
+    400054: Head
+    400056: HeadEnd
+    400058: ikHandle1
+    400060: Jaw
+    400062: Jawend
+    400064: L_Ankle_IK
+    400066: L_Ankle_IK_Front
+    400068: L_Back_Ankle_grp
+    400070: L_Back_Ankle_grp 1
+    400072: L_Back_Toe_ball
+    400074: L_Back_Toe_grp
+    400076: L_ball_IK
+    400078: L_ball_IK_Front
+    400080: L_Front_Ankle
+    400082: L_Front_Ankle_grp
+    400084: L_Front_Toe_ball
+    400086: L_Front_Toe_grp
+    400088: L_Joint_Ankle
+    400090: L_Joint_Ankle_Front
+    400092: L_Joint_BakcLeg
+    400094: L_Joint_Ball
+    400096: L_Joint_Ball_front
+    400098: L_Joint_BrontLeg
+    400100: L_Joint_Calf
+    400102: L_Joint_Calf_Front
+    400104: L_Joint_Toe
+    400106: L_Joint_Toe_front
+    400108: L_Toe_IK
+    400110: L_Toe_IK_Front
+    400112: lcators
+    400114: left
+    400116: locator1
+    400118: locator10
+    400120: locator11
+    400122: locator12
+    400124: locator13
+    400126: locator14
+    400128: locator15
+    400130: locator16
+    400132: locator17
+    400134: locator18
+    400136: locator19
+    400138: locator2
+    400140: locator20
+    400142: locator3
+    400144: locator4
+    400146: locator5
+    400148: locator6
+    400150: locator7
+    400152: locator8
+    400154: locator9
+    400156: MSH
+    400158: Neck
+    400160: Panter
+    400162: //RootNode
+    400164: Pelvis
+    400166: R_Ankle_IK
+    400168: R_Ankle_IK_Front
+    400170: R_Back_Ankle_grp
+    400172: R_Back_Ankle_grp1
+    400174: R_Back_Toe_ball
+    400176: R_Back_Toe_grp
+    400178: R_ball_IK
+    400180: R_ball_IK_Front
+    400182: R_Front_Ankle
+    400184: R_Front_Ankle_grp
+    400186: R_Front_Toe_ball
+    400188: R_Front_Toe_grp
+    400190: R_Joint_Ankle
+    400192: R_Joint_Ankle_Front
+    400194: R_Joint_BakcReg1
+    400196: R_Joint_Ball
+    400198: R_Joint_Ball_front
+    400200: R_Joint_BrontReg
+    400202: R_Joint_BrontReg1
+    400204: R_Joint_Calf
+    400206: R_Joint_Calf_Front
+    400208: R_Joint_Toe
+    400210: R_Joint_Toe_front
+    400212: R_Toe_IK
+    400214: R_Toe_IK_Front
+    400216: RIG
+    400218: Spine
+    400220: Spine 1
+    400222: Spine 2
+    400224: Spine2
+    400226: Spine3
+    400228: Spine4
+    400230: Spine5
+    400232: Spine6
+    400234: Spine7
+    400236: Spine8
+    400238: Tail
+    400240: Tail1
+    400242: Tail2
+    400244: Tail2 1
+    400246: Tail3
+    400248: Tail3 1
+    400250: Tail4
+    400252: Tail4 1
+    400254: Tail5
+    400256: Tail5 1
+    400258: Tail6
+    400260: Tail6 1
+    400262: Tail7
+    400264: Tail7 1
+    400266: Tail8
+    400268: ZCtlr_L_Foot_Back
+    400270: ZCtlr_L_Foot_Front
+    400272: ZCtlr_L_Knee_Back
+    400274: ZCtlr_L_Knee_Front
+    400276: ZCtlr_R_Foot
+    400278: ZCtlr_R_Foot_Front1
+    400280: ZCtlr_R_Knee_Back
+    400282: ZCtlr_R_Knee_Front
+    2000000: back
+    2000002: left
+    7400000: PanteraIdle
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
